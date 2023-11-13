@@ -23,3 +23,4 @@ console.log(typeof(myFunction))
 console.log(typeof bigNumber)
 console.log(typeof heros);
 console.log(typeof anotherId)
+//Stack (Primitive) , Heap (non-Primitive)

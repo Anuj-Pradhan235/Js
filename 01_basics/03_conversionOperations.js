@@ -33,5 +33,8 @@
 // console.log(2**2);// 2 rase to 2 that is the pow(2,2)
 // // and many more
 
-console.log((2+2)*9);
-console.log(true);
+// console.log((2+2)*9);
+// console.log(true);
+let isLoggedIn=10;
+let booleanLoggedIn=Boolean(isLoggedIn);
+console.log(booleanLoggedIn);
